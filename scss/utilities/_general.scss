@@ -1,0 +1,27 @@
+body {
+    background-color: $bg;
+    font-family: $main-font;
+}
+
+h1,
+h2 {
+    font-weight: $fw-bold;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 16px;
+
+    
+}
+
+p,
+li,
+a {
+    font-weight: $fw-light;
+}
+
+nav img {
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+}
